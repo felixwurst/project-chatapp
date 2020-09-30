@@ -1,4 +1,4 @@
-# Project: Build a Full-Stack Application
+# Project: Build a Full Stack Application
 
 ## Creating a Chat App
 
