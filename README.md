@@ -1,6 +1,6 @@
-# Project: Build a Full Stack Application
+# Project: Chat App
 
-## Creating a Chat App
+## Build a Full Stack Application with Node.js
 
 [Live Demo](https://www.coding-school.org/)
 
