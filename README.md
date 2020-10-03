@@ -1,4 +1,4 @@
-# Project: Chat App
+# Project: ChatApp
 
 ## Build a Full Stack Application with Node.js
 
