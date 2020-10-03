@@ -20,6 +20,13 @@ This chat app is a realtime broadcast with WebSockets. It is a protocol that all
 -   Socket.io
 -   MySQL
 
+### Usage:
+
+1. download the code
+2. run `npm install`
+3. run `npm run start`
+4. open your browser and go to `localhost:3000`
+
 ### Authors:
 
 Ingo Fischer & Felix Wurst
