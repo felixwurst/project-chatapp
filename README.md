@@ -2,9 +2,7 @@
 
 ## Creating a Chat App
 
-### Demo:
-
-[Chat App](https://www.coding-school.org/)
+[Live Demo](https://www.coding-school.org/)
 
 ### Description:
 
