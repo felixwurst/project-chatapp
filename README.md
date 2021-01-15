@@ -2,7 +2,7 @@
 
 ## Build a Full Stack Application with Node.js
 
-[Live Demo](https://www.coding-school.org/)
+[Live Demo](https://chat.felixwurst.de/)
 
 ### Description:
 
@@ -25,7 +25,7 @@ This chat app is a realtime broadcast with WebSockets. It is a protocol that all
 1. download the code
 2. run `npm install`
 3. run `npm run start`
-4. open your browser and go to `localhost:3000`
+4. open your browser and go to `localhost:4000`
 
 ### Authors:
 
