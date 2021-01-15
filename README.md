@@ -4,7 +4,7 @@
 
 [Live Demo](https://chat.felixwurst.de/)
 
-If you just want to try out the app and don't want to register right away, you can use this login for that. `Username: test / Password: 123`
+If you just want to try out the app and don't want to register right away, you can use this login for that.<br> `Username: test / Password: 123`
 
 ### Description:
 
