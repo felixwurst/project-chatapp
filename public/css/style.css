@@ -42,7 +42,6 @@ a {
 	border-radius: 6px;
 	font-size: 16px;
 	height: 40px;
-	border-inline: 2px solid black;
 }
 
 .btn:active {
@@ -69,7 +68,7 @@ fieldset > legend {
 
 fieldset > a {
 	position: absolute;
-	top: 0;
+	top: -2.6rem;
 	right: 0;
 	color: white;
 	text-decoration: underline;
