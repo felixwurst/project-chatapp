@@ -2,6 +2,12 @@
 
 ## Build a Full Stack Application with Node.js
 
+### Live Demo:
+
+[Chat App](https://chat.felixwurst.de/)
+
+If you just want to try out the app and don't want to register right away, you can use this login:<br> `Username: test / Password: 123`
+
 ### Description:
 
 With this app we want to enable users to communicate with each other in real time. Besides sending text messages there are other possibilities like sending pictures and setting emojis. There is also a choice of different chat rooms. Beyond that, further rooms can be created. Our goal is to provide an intuitive user interface to delight the user with an easy to handle and fast communication channel.
@@ -19,12 +25,6 @@ This chat app is a realtime broadcast with WebSockets. It is a protocol that all
 -   Express.js
 -   Socket<n/>.io
 -   MySQL
-
-### Live Demo:
-
-[Chat App](https://chat.felixwurst.de/)
-
-If you just want to try out the app and don't want to register right away, you can use this login:<br> `Username: test / Password: 123`
 
 ### Usage:
 
