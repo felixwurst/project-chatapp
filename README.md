@@ -27,7 +27,8 @@ This chat app is a realtime broadcast with WebSockets. It is a protocol that all
 1. download the code
 2. run `npm install`
 3. run `npm run start`
-4. open your browser and go to `localhost:4000`
+4. import sql file from the share folder into your database
+5. open your browser and go to `localhost:4000`
 
 ### Authors:
 
